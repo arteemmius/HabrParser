@@ -1,0 +1,15 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=586&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[XIX Форум видавців у Львові. Як це було]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ форум видавців]]></item>
+    <item type="str"><![CDATA[ Андрухович]]></item>
+    <item type="str"><![CDATA[ Ірена Карпа]]></item>
+    <item type="str"><![CDATA[ Сковорода]]></item>
+    <item type="str"><![CDATA[ Шульц]]></item>
+    <item type="str"><![CDATA[ Транстрьомер ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=567&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Выставка польского джазового плаката впервые откроется в Виннице 19 сентября. ]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ фестиваль джаза в виннице]]></item>
+    <item type="str"><![CDATA[джаз винница]]></item>
+    <item type="str"><![CDATA[польский джазовый плакат ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

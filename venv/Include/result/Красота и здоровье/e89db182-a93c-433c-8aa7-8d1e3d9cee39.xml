@@ -1,0 +1,13 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=410&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[ЛихоЛесье - Blues 2012]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ Blues 2012]]></item>
+    <item type="str"><![CDATA[Як на війні]]></item>
+    <item type="str"><![CDATA[Тім Талер]]></item>
+    <item type="str"><![CDATA[Віктор Демидюк ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

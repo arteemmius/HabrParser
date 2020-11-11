@@ -1,0 +1,13 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=717&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[На кинофестивале Молодость покажут 300 фильмов]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ 42-й кинофестиваль]]></item>
+    <item type="str"><![CDATA[неделя "Молодости"]]></item>
+    <item type="str"><![CDATA[молодость]]></item>
+    <item type="str"><![CDATA[в сопровождении симфонического оркестра ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

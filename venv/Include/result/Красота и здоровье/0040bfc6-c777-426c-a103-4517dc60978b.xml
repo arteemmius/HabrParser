@@ -1,0 +1,15 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=662&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Украинский фильм претендует на "Оскара".]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ Украинский фильмпретендует на Оскара]]></item>
+    <item type="str"><![CDATA[Лучший фильм на иностранном языке]]></item>
+    <item type="str"><![CDATA[во время Великой Отечественной войны]]></item>
+    <item type="str"><![CDATA[попал в плен]]></item>
+    <item type="str"><![CDATA[стал вождём племени индейцев]]></item>
+    <item type="str"><![CDATA[Михаила Ильенко ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

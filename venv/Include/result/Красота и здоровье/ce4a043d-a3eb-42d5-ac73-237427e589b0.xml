@@ -1,0 +1,14 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=1150&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Жіноче пияцтво.]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ Пияцтво]]></item>
+    <item type="str"><![CDATA[поширене явище]]></item>
+    <item type="str"><![CDATA[з Центру по контролю захворювань США]]></item>
+    <item type="str"><![CDATA[4 або більше порцій спиртних напоїв]]></item>
+    <item type="str"><![CDATA[Morbidity and Mortality Weekly Report ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

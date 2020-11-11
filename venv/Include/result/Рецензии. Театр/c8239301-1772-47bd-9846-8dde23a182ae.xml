@@ -1,0 +1,16 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=3995&album_id=20&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Рецензии. Театр]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Зойкина Квартира. ЦДРИ. Аншлаг]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ по пьесе М. Булгакова]]></item>
+    <item type="str"><![CDATA[Зойкина Квартира]]></item>
+    <item type="str"><![CDATA[ЦДРИ]]></item>
+    <item type="str"><![CDATA[Аншлаг]]></item>
+    <item type="str"><![CDATA[на спектакль]]></item>
+    <item type="str"><![CDATA[Студенческий Театр МГОУ]]></item>
+    <item type="str"><![CDATA[хохлов ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

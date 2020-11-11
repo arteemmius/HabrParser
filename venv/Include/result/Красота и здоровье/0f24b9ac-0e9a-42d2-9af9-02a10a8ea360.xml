@@ -1,0 +1,14 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=669&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Чемпионат по Street Workout в Прошове]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ Чемпионат]]></item>
+    <item type="str"><![CDATA[Street Workout]]></item>
+    <item type="str"><![CDATA[Прошова]]></item>
+    <item type="str"><![CDATA[тернопольский район]]></item>
+    <item type="str"><![CDATA[турникмен ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>

@@ -1,0 +1,10 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/post/20170214-experiment]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[О нас]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Experiment]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ Сivil society organization Experiment ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[Сivil society organization Experiment is a youth organization engaged in non-profit cultural and social projects in Ukraine. Currently Experiment is involved in the following areas: literature, sculpture, music, painting, choreography, theater, cinema and other activities. ]]></text>
+</doc>

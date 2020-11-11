@@ -1,0 +1,12 @@
+<doc>
+  <source auto="true" type="str" verify="true"><![CDATA[https://md-eksperiment.org/etv_page.php?page_id=295&album_id=10&category=STATJI]]></source>
+  <category auto="true" type="str" verify="true"><![CDATA[Красота и здоровье]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA["Кадр Вперёд".Ярославский Фестиваль Короткометражных Фильмов. Приём заявок.]]></title>
+  <keywords auto="true" type="list" verify="true">
+    <item type="str"><![CDATA[ Приём заявок]]></item>
+    <item type="str"><![CDATA[Ярославский Фестиваль Короткометражных Фильмов]]></item>
+    <item type="str"><![CDATA[Кадр Вперёд ]]></item>
+  </keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[ ]]></text>
+</doc>
